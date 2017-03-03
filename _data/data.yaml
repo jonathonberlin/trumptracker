@@ -32,15 +32,6 @@ statuses:
 
 promises:
     -
-        title: 'Test Berlin promise'
-        status: Broken
-        category: First 100 Days
-        tags:
-            - 'Contract with the American Voter - 100 Day Plan'
-        comments: 'hello I'm a test'
-        sources:
-            - 'http://www.chicagotribune.com'
-    -
         title: 'No more trips Maralago'
         status: Broken
         category: Culture
