@@ -31,10 +31,10 @@ statuses:
         icon: handshake-o
 
 promises:
-  -
-        title: 'test Berlin promise'
-        status: Not started
-        category: First 1000 Days
+    -
+        title: 'Test Berlin promise'
+        status: Broken
+        category: First 100 Days
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments: 'hello I'm a test'
