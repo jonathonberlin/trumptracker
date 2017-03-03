@@ -31,6 +31,15 @@ statuses:
         icon: handshake-o
 
 promises:
+  -
+        title: 'test Berlin promise'
+        status: Not started
+        category: First 1000 Days
+        tags:
+            - 'this is a test'
+        comments: 'hello I'm a test'
+        sources:
+            - 'http://www.chicagotribune.com'
     -
         title: 'No more trips Maralago'
         status: Broken
